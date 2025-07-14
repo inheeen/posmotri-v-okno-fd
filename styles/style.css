@@ -187,6 +187,8 @@ ol {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  line-height: 100%;
+  margin-bottom: 6px;
 }
 
 .content__video-card-description {
